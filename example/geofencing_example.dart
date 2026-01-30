@@ -354,3 +354,4 @@ class TestCoordinates {
     'far_away': LatLng(28.7000, 77.3000), // ~10km from Delhi site
   };
 }
+

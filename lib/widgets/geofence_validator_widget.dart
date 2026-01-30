@@ -166,3 +166,4 @@ class _GeofenceValidatorWidgetState extends State<GeofenceValidatorWidget> {
     return 'Location Not Validated';
   }
 }
+

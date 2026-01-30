@@ -191,3 +191,4 @@ class _GeofenceStatusWidgetState extends State<GeofenceStatusWidget> {
     );
   }
 }
+

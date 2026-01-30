@@ -229,3 +229,4 @@ class OCRService {
     print('[OCRService] ERROR in $method: $error');
   }
 }
+
